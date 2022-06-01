@@ -108,7 +108,7 @@ button:hover, .plan .change a:hover {
     filter: brightness(40%);
 }
 
-@media (max-width: 769px) {
+@media (min-width: 500px) and (max-width: 769px) {
     .card {
         width: 50%;
         margin: 7% auto 3%;
